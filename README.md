@@ -3,7 +3,7 @@
 👋**Hello this is my profile**😁
 
 
-I’m Muhammad Septian Zamzani, a **Data Analyst** driven by a passion for turning raw data into meaningful insights. With robust training from Hacktiv8’s Full Stack Data Science program and a experience background in industries such as Creative, and education, I'm skilled at using data to solve practical issues in real-world and support strategic business decisions.
+I’m Muhammad Septian Zamzani, a **Data Analyst** driven by a passion for turning raw data into meaningful insights. With robust training from Hacktiv8’s Full Time Data Science program and a experience background in industries such as Creative, and education, I'm skilled at using data to solve practical issues in real-world and support strategic business decisions.
 
 ---
 

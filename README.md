@@ -39,5 +39,10 @@ I’m Muhammad Septian Zamzani, a **Data Analyst** driven by a passion for turni
   *Core Skills Developed*: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, and Feature Engineering
 
 ---
-
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mseptianz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mseptianz&layout=compact&theme=algolia"/>
+</a>
+</p>
 Thanks for stopping by! Feel free to explore my projects or reach out—I'm always up for collaborations and new ideas in the world of data science.
